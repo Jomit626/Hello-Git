@@ -1,4 +1,1 @@
 print('Helllo!')
-
-print('Helllo!')
-
